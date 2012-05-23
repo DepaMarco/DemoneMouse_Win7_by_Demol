@@ -1,0 +1,47 @@
+C:\Users\depardi_marco\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\bin\Debug\MuovereMouse_Windows7 - by Demol.exe
+C:\Users\depardi_marco\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\bin\Debug\MuovereMouse_Windows7 - by Demol.pdb
+C:\Users\depardi_marco\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\depardi_marco\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\depardi_marco\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\depardi_marco\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MainWindow.baml
+C:\Users\depardi_marco\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MainWindow.g.cs
+C:\Users\depardi_marco\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\App.g.cs
+C:\Users\depardi_marco\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MuovereMouse_Windows7 - by Demol_MarkupCompile.cache
+C:\Users\depardi_marco\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MuovereMouse_Windows7 - by Demol.g.resources
+C:\Users\depardi_marco\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MuovereMouse_Windows7___by_Demol.Properties.Resources.resources
+C:\Users\depardi_marco\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\depardi_marco\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\depardi_marco\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MuovereMouse_Windows7 - by Demol.exe
+C:\Users\depardi_marco\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MuovereMouse_Windows7 - by Demol.pdb
+C:\Users\Alex\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MuovereMouse_Windows7 - by Demol.exe
+C:\Users\Alex\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MuovereMouse_Windows7 - by Demol.pdb
+C:\Users\Alex\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\Impostazioni.baml
+C:\Users\Alex\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\Impostazioni.g.cs
+C:\Users\Alex\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\App.g.cs
+C:\Users\Alex\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MuovereMouse_Windows7 - by Demol_MarkupCompile.cache
+C:\Users\Alex\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MuovereMouse_Windows7 - by Demol.g.resources
+C:\Users\Alex\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MuovereMouse_Windows7___by_Demol.Properties.Resources.resources
+C:\Users\Alex\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alex\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\bin\Debug\MuovereMouse_Windows7 - by Demol.exe
+C:\Users\Alex\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\bin\Debug\MuovereMouse_Windows7 - by Demol.pdb
+C:\Users\Alex\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\Alex\Desktop\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Temp\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MuovereMouse_Windows7 - by Demol.exe
+C:\Temp\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MuovereMouse_Windows7 - by Demol.pdb
+C:\Temp\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\bin\Debug\MuovereMouse_Windows7 - by Demol.exe
+C:\Temp\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\bin\Debug\MuovereMouse_Windows7 - by Demol.pdb
+C:\Temp\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Temp\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Temp\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MainWindow.baml
+C:\Temp\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MainWindow.g.cs
+C:\Temp\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\App.g.cs
+C:\Temp\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MuovereMouse_Windows7 - by Demol_MarkupCompile.cache
+C:\Temp\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MuovereMouse_Windows7 - by Demol.g.resources
+C:\Temp\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\MuovereMouse_Windows7___by_Demol.Properties.Resources.resources
+C:\Temp\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Temp\MuovereMouse_Windows7 - by Demol\MuovereMouse_Windows7 - by Demol\obj\x86\Debug\GenerateResource.write.1.tlog
